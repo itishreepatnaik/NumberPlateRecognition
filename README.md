@@ -22,8 +22,6 @@ Prerequisites:-
 
 OpenCV: OpenCV is the huge open-source library for the computer vision, machine learning, and image processing and it plays a major role in real-time operation.
      
-     Applications of OpenCV: face recognition,Automated inspection and surveillance, number of people – count (foot traffic in a mall, etc), Vehicle counting on          highways along with their speeds, Interactive art installations, object recognition...
-
 Python: I have used version 3.9.2 here.
 
 IDE: Jupyter notebook.
