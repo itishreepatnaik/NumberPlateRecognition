@@ -20,7 +20,9 @@ Step6:- Training the CNN model.
 
 Prerequisites:-
 
-OpenCV: OpenCV is a library of programming functions mainly aimed at real-time computer vision plus its open-source, fun to work with and my personal favorite. I have used version 4.1.0 for this project.
+OpenCV: OpenCV is the huge open-source library for the computer vision, machine learning, and image processing and it plays a major role in real-time operation.
+     
+     Applications of OpenCV: face recognition,Automated inspection and surveillance, number of people – count (foot traffic in a mall, etc), Vehicle counting on          highways along with their speeds, Interactive art installations, object recognition...
 
 Python: I have used version 3.9.2 here.
 
