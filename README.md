@@ -24,7 +24,7 @@ OpenCV: OpenCV is a library of programming functions mainly aimed at real-time c
 
 Python: I have used version 3.9.2 here.
 
-IDE: I will be using Jupyter notebook.
+IDE: Jupyter notebook.
 
 Keras: Keras is an open-source software library that provides a Python interface for artificial neural networks. Keras acts as an interface for the TensorFlow library.
 
